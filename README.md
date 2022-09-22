@@ -1,3 +1,3 @@
 # Authentication-flows
 
-Coming soon - redaction in progress. Reach out to jfwalasik3@gmail.com.
+OAuth2.0 Chooser & Redacted PKCE FLow
